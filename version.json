@@ -1,6 +1,6 @@
 {
-  "version":"2.1.0",
-  "fecha": "2026-05-26",
-  "novedades": "Version inicial con historial de chat IA, extraccion PDF mejorada y diagnostico del sistema.",
-  "url_exe": "https://github.com/futurecaicedo-gif/docucontrol-updates/releases/download/v2.1.0/DocuControlPro.exe"
+  "version": "2.1.1",
+  "fecha": "2026-06-05",
+  "novedades": "Multiusuario en la nube, DOCO con memoria de conversacion, diseno acordeon en configuracion, extraccion Word mejorada.",
+  "url_exe": "https://github.com/futurecaicedo-gif/docucontrol-updates/releases/download/v2.1.1/DocuControlPro_Instalador_v2.1.1.exe"
 }
